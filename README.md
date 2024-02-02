@@ -7,8 +7,8 @@
 * **-sX:**  (-s0 to -s5) Speech style, from formal to informal.  
 * **-dtX:** (-dt0 to -dt5) Level of detail (how short or long will be the answer).  
 * **-cX:** (-c0 to -c5) Creativity level.  
-* **-dX:** (-d0 to d5) Technical complexity (d0 means "explain like I'm 6 years old").  
-* **-vX:** (-v2 to v100) Number of varitions. Useful for quick creative tasks, such as generating titles.  
+* **-dX:** (-d0 to -d5) Technical complexity (d0 means "explain like I'm 6 years old").  
+* **-vX:** (-v2 to -v100) Number of varitions. Useful for quick creative tasks, such as generating titles.  
 
 #### Additional parameters:
 * **-steps:** "Think step by step" (can lead to better results).
