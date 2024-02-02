@@ -1,5 +1,8 @@
 # FlexiGPT
 
+GPTs store: https://chat.openai.com/g/g-BwDWKy93j-flexigpt
+
+
 ## Full list of currently implemented flags:
 
 #### Numerical parameters:
