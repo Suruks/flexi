@@ -13,4 +13,4 @@
 * -steps: "Think step by step" (can lead to better results);  
 * -qa: Quick answers mode;  
 * -lang-[en/ru/etc]: Specify the answer language;  
-* -i or -pic: Illustrate the answer with an image.
+* -pic: Illustrate the answer with an image.
