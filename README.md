@@ -7,7 +7,7 @@
 -sX: Speech style, from formal to informal;  
 -dtX: Level of detail (how short or long will be the answer);  
 -cX: Creativity level;  
--dX: Technical complexity, X=0 means "explain like I'm 6 years old".
+-dX: Technical complexity (d0 means "explain like I'm 6 years old").
 
 #### Additional parameters:
 -steps: "Think step by step" (can lead to better results);  
