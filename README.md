@@ -9,7 +9,7 @@ https://chat.openai.com/g/g-BwDWKy93j-flexigpt
 #### Numerical parameters:
 
 * **-sX:**  (-s0 to -s5) **Speech style**, from formal to informal  
-  trying to mimic a normal person at -s2, cringe hazard at levels exceeding -s3
+  typical ChatGPT at -s0, trying to mimic a normal person at -s2, cringe hazard at levels exceeding -s3
 * **-dX:** (-d0 to -d5) **Level of detail**  
   how short or long will be the answer  
 * **-tX:** (-t0 to -t5) **Technical complexity**  
