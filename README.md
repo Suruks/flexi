@@ -7,9 +7,9 @@ GPTs store: https://chat.openai.com/g/g-BwDWKy93j-flexigpt
 
 #### Numerical parameters:
 
-* **-sX:**  (-s0 to -s5) Speech style, from formal to informal.  
+* **-sX:**  (-s0 to -s5) Speech style, from formal to informal (cringe hazard at levels exceeding -s3)
 * **-dX:** (-d0 to -d5) Level of detail (how short or long will be the answer).  
-* **-cX:** (-c0 to -c5) Creativity level.  
+
 * **-tX:** (-t0 to -t5) Technical complexity (t0 means "explain like I'm 6 years old").  
 * **-vX:** (-v2 to -v100) Number of varitions. Useful for quick creative tasks, such as generating titles.  
 
@@ -19,4 +19,8 @@ GPTs store: https://chat.openai.com/g/g-BwDWKy93j-flexigpt
 * **-qa:** Quick answers mode.
 * **-lang-XX:** Specify the answer language (for example: -lang-ru, -lang-it).
 * **-web** or **-no-web:** Forced use or prohibition of web browsing.
-* **-pic:** Illustrate the answer with an image.  
+* **-pic:** Illustrate the answer with an image.
+  
+  
+#### Does not work well, needs improvement:
+* ~~**-cX:** (-c0 to -c5) Creativity level.~~ 
